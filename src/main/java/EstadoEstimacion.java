@@ -1,6 +1,5 @@
 public enum EstadoEstimacion {
   ESPERANDO_APROBACION,
   RECHAZADO,
-  DEFINITIVA,
-  SIN_ESTIMACION;
+  DEFINITIVA;
 }
